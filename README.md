@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuliaLightCNCS
+- 👋 Hi, I’m Julia Light
 - 👀 I’m interested in learning how to protect people from online hacking.
 - 🌱 I’m currently learning Computer Networking and Cybersecurity.
 - 💞️ I’m looking to collaborate on anything that involves computer networking or cyber security. If anyone wants to collaborate on python programming please reach out.
